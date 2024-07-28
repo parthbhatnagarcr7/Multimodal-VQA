@@ -1,0 +1,1 @@
+This project contains AI Multimodal in which the user can give any image of his/her choice and can ask any question based on the image or about the image to the modal, the modal gives the appropriate answer to the queries of the user with the specified accuracy.
